@@ -1,0 +1,6 @@
+12月 19, 2023 10:48:03 上午 java编程思想.ExampleLogger main
+信息: 这是一条信息记录。
+12月 19, 2023 10:48:03 上午 java编程思想.ExampleLogger main
+警告: 这是一条警告信息。
+12月 19, 2023 10:48:03 上午 java编程思想.ExampleLogger main
+严重: 这是一条严重错误信息。
